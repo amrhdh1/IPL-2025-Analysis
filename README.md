@@ -19,8 +19,6 @@ Our analysis aims to answer the following specific questions:
 
 ## 📊 Key Analyses & Insights (Pivot Tables)
 
-Based on the `IPCS.xlsx - Sheet1.csv` dataset, the following pivot table analyses were performed, each offering unique insights:
-
 1.  **🎲 Toss Winner Decision Analysis**:
     * **Insight**: Explores how many matches were played at each venue and, for each venue, how often teams chose to bat or bowl after winning the toss. This reveals strategic patterns based on location.
 
@@ -39,10 +37,10 @@ Based on the `IPCS.xlsx - Sheet1.csv` dataset, the following pivot table analyse
 6.  **🏅 Player Performance Metrics (Highscore, Wickets, Runs) by Team**:
     * **Insight**: Summarizes the batting and bowling performance contributions by team, identifying consistent high-scoring or strong bowling performances across the tournament.
 
-## 📁 Data Source
+📁 Data Source
 
 The analysis is based on the `IPCS.xlsx - Sheet1.csv` dataset, containing detailed statistics for each match in the IPL 2025 season.
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 
 * **Microsoft Excel**: For data cleaning, pivot table creation, and generating all visualizations.
