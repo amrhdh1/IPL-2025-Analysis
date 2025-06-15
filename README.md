@@ -39,7 +39,7 @@ Our analysis aims to answer the following specific questions:
 
 📁 Data Source
 
-The analysis is based on the `IPCS.xlsx - Sheet1.csv` dataset, containing detailed statistics for each match in the IPL 2025 season.
+The analysis is based on the `IPL Dashboard.xlsx - Sheet1.csv` dataset, containing detailed statistics for each match in the IPL 2025 season.
 
 🛠️ Tools Used
 
